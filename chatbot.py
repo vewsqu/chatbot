@@ -2,7 +2,7 @@
 from telegram import ReplyKeyboardMarkup, Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "7625173358:AAEhGAn9elwvJqPZBDQA3HbzuFfY06qxi88"
+TOKEN = ""
 
 # Меню и ответы
 menu_structure = {
